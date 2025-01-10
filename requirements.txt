@@ -1,0 +1,5 @@
+langchain
+langchain-core
+langchain-ollama
+langchain-community
+pypdf2
